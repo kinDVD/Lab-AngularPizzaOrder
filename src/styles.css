@@ -1,1 +1,19 @@
 /* You can add global styles to this file, and also import other style files */
+div{
+    border: 10px solid #ae5f5f;
+    background: url("https://static01.nyt.com/images/2024/02/07/multimedia/ND-detroit-style-pizza-twpb/ND-detroit-style-pizza-twpb-superJumbo.jpg");
+}
+h1{
+    text-align: center;
+}
+h3{
+    text-align: center;
+}
+th{
+    text-align: left;
+    background-color: rgba(252, 243, 232, 0.651);
+}
+td{
+    text-align: left;
+    background-color: rgba(252, 243, 232, 0.651);
+}
